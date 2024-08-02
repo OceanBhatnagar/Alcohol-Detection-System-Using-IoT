@@ -1,4 +1,4 @@
-#Alcohol Detection System Using IoT
+# Alcohol Detection System Using IoT
 Welcome to the Alcohol Detection System project repository! This project involves building a system that detects alcohol levels using an MQ135 sensor and prevents the car
 motor driver from working if the alcohol level is above a threshold. An IR sensor is used to detect the presence of a person, and an ESP8266 microcontroller is used to 
 control the system and display data on a 16x2 I2C LCD screen.
